@@ -16,6 +16,12 @@ A privacy-focused integration bridge connecting authorized AI companions with co
 
 [View the public showcase](https://github.com/TreeofLife-CreativeStudios/ai2toy-companion-bridge-showcase)
 
+### Tree of Life Creative Studios Creator Suite
+
+An expandable multi-studio platform for music, music videos, sheet music, stories, illustrations, books, and future interactive creative experiences. The suite combines specialized studios with shared creator profiles, collaboration, privacy, project organization, and attribution systems.
+
+[View the public showcase](https://github.com/TreeofLife-CreativeStudios/tolcs-creator-suite-showcase)
+
 ### Vintage Story Mods
 
 My coding journey began with Vintage Story mod development, including voxel modeling, JSON asset structures, coordinated mechanical animation, texture work, and immersive crafting-system design.
