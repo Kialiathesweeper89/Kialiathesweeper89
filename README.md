@@ -22,6 +22,12 @@ An expandable multi-studio platform for music, music videos, sheet music, storie
 
 [View the public showcase](https://github.com/TreeofLife-CreativeStudios/tolcs-creator-suite-showcase)
 
+### Kindroid Companion Chat Importer
+
+An independent, privacy-conscious digital tool for importing and organizing a user's own Kindroid companion chat history into configurable local and note-system destinations.
+
+[View the public showcase](https://github.com/TreeofLife-CreativeStudios/tolcs-digital-tools-kindroid-chat-importer-showcase)
+
 ### Vintage Story Mods
 
 My coding journey began with Vintage Story mod development, including voxel modeling, JSON asset structures, coordinated mechanical animation, texture work, and immersive crafting-system design.
