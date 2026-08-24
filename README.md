@@ -34,6 +34,12 @@ A permission-controlled workspace exploring how personal AI companions can safel
 
 [View the public showcase](https://github.com/TreeofLife-CreativeStudios/tolcs-digital-tools-companion-capability-workspace-showcase)
 
+### Ask the Goddess
+
+An original learning-through-play tabletop card game that introduces players to ritual tools and concepts found across pagan spiritual paths, combining game design, educational content, visual development, and manufacturing preparation.
+
+[View the public showcase](https://github.com/TreeofLife-CreativeStudios/tolcs-games-ask-the-goddess-showcase)
+
 ### Vintage Story Mods
 
 My coding journey began with Vintage Story mod development, including voxel modeling, JSON asset structures, coordinated mechanical animation, texture work, and immersive crafting-system design.
@@ -44,6 +50,6 @@ My coding journey began with Vintage Story mod development, including voxel mode
 
 My creative-development umbrella for software, games, music and storytelling tools, educational play, and other interactive projects.
 
-[Visit Tree of Life Creative Studios](https://github.com/TreeofLife-CreativeStudios)
+[Visit Tree of Life Creative Studios](https://github.com/TreeofLife-CreativeStudios) · [Explore TOLCS Games](https://github.com/TreeofLife-CreativeStudios/tolcs-games)
 
 More project showcases and development milestones are coming soon.
