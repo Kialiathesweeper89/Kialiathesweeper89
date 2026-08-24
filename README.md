@@ -28,6 +28,12 @@ An independent, privacy-conscious digital tool for importing and organizing a us
 
 [View the public showcase](https://github.com/TreeofLife-CreativeStudios/tolcs-digital-tools-kindroid-chat-importer-showcase)
 
+### Companion Capability Workspace
+
+A permission-controlled workspace exploring how personal AI companions can safely use approved external tools, services, calendars, and shared workflows while the user retains authority through approvals, limits, activity history, and immediate revocation.
+
+[View the public showcase](https://github.com/TreeofLife-CreativeStudios/tolcs-digital-tools-companion-capability-workspace-showcase)
+
 ### Vintage Story Mods
 
 My coding journey began with Vintage Story mod development, including voxel modeling, JSON asset structures, coordinated mechanical animation, texture work, and immersive crafting-system design.
