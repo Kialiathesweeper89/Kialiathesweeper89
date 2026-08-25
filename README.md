@@ -40,6 +40,12 @@ An original learning-through-play tabletop card game that introduces players to 
 
 [View the public showcase](https://github.com/TreeofLife-CreativeStudios/tolcs-games-ask-the-goddess-showcase)
 
+### Garment Repair & Alteration Workflow
+
+A privacy-conscious workflow concept for documenting garment repairs, alterations, modifications, work orders, materials, and completion status. The project applies software planning and interface design to practical sewing and repair operations.
+
+[View the public showcase](https://github.com/TreeofLife-CreativeStudios/tolcs-digital-tools-garment-repair-alteration-workflow-showcase)
+
 ### Vintage Story Mods
 
 My coding journey began with Vintage Story mod development, including voxel modeling, JSON asset structures, coordinated mechanical animation, texture work, and immersive crafting-system design.
