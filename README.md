@@ -46,6 +46,12 @@ A privacy-conscious workflow concept for documenting garment repairs, alteration
 
 [View the public showcase](https://github.com/TreeofLife-CreativeStudios/tolcs-digital-tools-garment-repair-alteration-workflow-showcase)
 
+### Sewing Beetle
+
+An original sewing-technology and product-design concept exploring how a compact, approachable product could support sewing and textile work through thoughtful physical design, guided workflows, and potentially assisted or automated functions.
+
+[View the public showcase](https://github.com/TreeofLife-CreativeStudios/tolcs-product-design-sewing-beetle-showcase)
+
 ### Vintage Story Mods
 
 My coding journey began with Vintage Story mod development, including voxel modeling, JSON asset structures, coordinated mechanical animation, texture work, and immersive crafting-system design.
@@ -56,6 +62,6 @@ My coding journey began with Vintage Story mod development, including voxel mode
 
 My creative-development umbrella for software, games, music and storytelling tools, educational play, and other interactive projects.
 
-[Visit Tree of Life Creative Studios](https://github.com/TreeofLife-CreativeStudios) · [Explore TOLCS Games](https://github.com/TreeofLife-CreativeStudios/tolcs-games)
+[Visit Tree of Life Creative Studios](https://github.com/TreeofLife-CreativeStudios) · [Explore TOLCS Games](https://github.com/TreeofLife-CreativeStudios/tolcs-games) · [Explore TOLCS Product Design](https://github.com/TreeofLife-CreativeStudios/tolcs-product-design)
 
 More project showcases and development milestones are coming soon.
